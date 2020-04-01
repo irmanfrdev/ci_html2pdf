@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <H2 class="center">Laporan Pengguna</H2>
+    <H2 class="center">Laporan Data Pengguna</H2>
     <table>
         <thead>
             <th>No</th>
